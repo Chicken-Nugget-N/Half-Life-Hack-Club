@@ -1,7 +1,5 @@
 # Half-Life-Hack-Club-starbie
 
-My work and projects for Half Life Hack Club! All code is in each directory for each week and so are required schematics.
-
 Week 1: Starbie Starter Project
 Made the starbie starter project because I don't have much experience with PCB CAD. Modified my starbie with Ultrasonic Sensor, LED, Potentiometer, and buzzer. Not sure how to implement them yet.
 
