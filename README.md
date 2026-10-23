@@ -1,4 +1,4 @@
-# Half-Life-Hack-Club
+# Half-Life-Hack-Club-starbie
 
 My work and projects for Half Life Hack Club! All code is in each directory for each week and so are required schematics.
 
