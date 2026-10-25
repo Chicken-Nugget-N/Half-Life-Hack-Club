@@ -14,11 +14,10 @@ Next I worked on the program on Arduino IDE and modified the baseline code. I pl
 <img width="640" height="377" alt="Screenshot 2026-10-10 104459" src="https://github.com/user-attachments/assets/0ea7495f-cf82-4fdd-bbc0-ccb0d71b2c08" />
 Finally, I assembled my BOM. Due to the lack of funding from starter projects and ridiculous PCB prices, I ended up only putting the PCB on the BOM and just bought everything else myself. The BOM in this repository is an accurate list of what I need funded, however below is an table of everything I have purchased
 
-Item, amount, cost (ea.), Link
-XIAO ESP32 C3, 1, 19.99, https://www.amazon.com/XIAO-ESP32C3-3PCS-Pack-Bluetooth5-0/dp/B0DGX3LSC7/
-0.96 OLED, 1, 9.99, https://www.amazon.com/dp/B0GBVWBWCR
-MPU6050, 1, 11.37, https://www.amazon.com/hiBCTR-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B0DTJY9B1D
-DHT11, 1, 9.99, https://www.amazon.com/Teyleten-Robot-Temperature-Humidity-Raspberry/dp/B0CPF6ZZ73
-PCB,1,26.49,https://www.jlcpcb.com/
-,,,
-Total (each kit), 1, 77.83,
+Item	Amount	Cost (ea.)	Link
+XIAO ESP32 C3	1	$19.99	Amazon
+0.96 OLED	1	$9.99	Amazon
+MPU6050	1	$11.37	Amazon
+DHT11	1	$9.99	Amazon
+PCB	1	$26.49	JLCPCB
+Total (each kit)	1	$77.83	—
