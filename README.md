@@ -26,5 +26,5 @@ Finally, I assembled my BOM. Due to the lack of funding from starter projects an
 | 0.96 OLED | 1 | $9.99 | [Amazon](https://www.amazon.com/dp/B0GBVWBWCR) |
 | MPU6050 | 1 | $11.37 | [Amazon](https://www.amazon.com/hiBCTR-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B0DTJY9B1D) |
 | DHT11 | 1 | $9.99 | [Amazon](https://www.amazon.com/Teyleten-Robot-Temperature-Humidity-Raspberry/dp/B0CPF6ZZ73) |
-| PCB | 1 | $26.49 | [JLCPCB](https://www.jlcpcb.com/) |
-| **Total (each kit)** | **1** | **$77.83** | — |
+| PCB | 1 | $26.32 | [JLCPCB](https://www.jlcpcb.com/) |
+| **Total (each kit)** | **1** | **$77.66** | — |
