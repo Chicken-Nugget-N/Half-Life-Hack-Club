@@ -7,11 +7,17 @@ Made the starbie starter project because I don't have much experience with PCB C
 
 I decided to make this starbie because I needed an intro to pcb design during the Half life hack club. I'm really excited to do this project because I want to gain more experience with hardware and electronics. 
 I started by following instructions on importing all the necessary footprints and schematics in KiCad, and then designed a schematic with sections for a screen, potentiometer, buttons and an LED.
+
 <img width="628" height="349" alt="Screenshot 2026-10-08 192557" src="https://github.com/user-attachments/assets/6f8b7e17-37dd-42b6-b836-d63ff73b91a4" />
+
 Next thing, I wired up the pcb outline so that all the components were connected. I had some trouble until I realized there were two layers through which I could wire the pcb. That made it a lot simpler. Its still a messy wiring, but as my first cad, its not horrible
+
 <img width="640" height="362" alt="Screenshot 2026-10-10 133530" src="https://github.com/user-attachments/assets/c861bace-37e0-4ba6-b098-02afffa926ac" />
+
 Next I worked on the program on Arduino IDE and modified the baseline code. I plan to iterate on this code during the build week once I have the physical copy and can see what everything is doing.
+
 <img width="640" height="377" alt="Screenshot 2026-10-10 104459" src="https://github.com/user-attachments/assets/0ea7495f-cf82-4fdd-bbc0-ccb0d71b2c08" />
+
 Finally, I assembled my BOM. Due to the lack of funding from starter projects and ridiculous PCB prices, I ended up only putting the PCB on the BOM and just bought everything else myself. The BOM in this repository is an accurate list of what I need funded, however below is an table of everything I have purchased
 
 | Item | Amount | Cost (ea.) | Link |
