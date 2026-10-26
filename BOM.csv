@@ -1,5 +1,5 @@
 
-Item,Amount,Cost (ea.),Link
+Item,Amount,Price,Link
 XIAO ESP32 C3,1,19.99,https://www.amazon.com/XIAO-ESP32C3-3PCS-Pack-Bluetooth5-0/dp/B0DGX3LSC7/
 0.96 OLED,1,9.99,https://www.amazon.com/dp/B0GBVWBWCR
 MPU6050,1,11.37,https://www.amazon.com/hiBCTR-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B0DTJY9B1D
